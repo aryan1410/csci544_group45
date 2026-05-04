@@ -1,0 +1,117 @@
+META PLATFORMS, INC.
+FORM 10-K
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 2022
+Filed with the United States Securities and Exchange Commission
+
+PART I
+
+Item 1. Business
+
+Overview
+
+Meta Platforms, Inc. builds technologies that help people connect, find communities, and grow
+businesses. Meta's family of apps includes Facebook, Instagram, Messenger, and WhatsApp. The
+Company also develops the Meta Quest virtual reality headset and related hardware. Meta was
+incorporated in Delaware in 2004 and changed its name from Facebook, Inc. to Meta Platforms, Inc.
+in October 2021.
+
+The Company's principal executive offices are located at 1601 Willow Road, Menlo Park, California
+94025. The Company's telephone number is (650) 543-4800. The Company's website address is
+www.meta.com. The Company's Class A common stock is listed on the Nasdaq Global Select Market
+under the symbol META.
+
+Meta's fiscal year ends on December 31.
+
+
+Products and Services
+
+Family of Apps (FoA)
+The Family of Apps segment includes Facebook, Instagram, Messenger, WhatsApp, and other services.
+Revenue in this segment is primarily generated from advertising. In fiscal 2022, Family of Apps
+revenue was $114,450 million. Family of Apps operating income was $42,661 million in fiscal 2022.
+
+  Facebook: a social networking platform connecting billions of users worldwide
+  Instagram: a photo and video sharing platform
+  Messenger: a messaging application
+  WhatsApp: an end-to-end encrypted messaging service with over 2 billion users
+
+Reality Labs (RL)
+The Reality Labs segment includes augmented and virtual reality related consumer hardware,
+software, and content. Products include the Meta Quest virtual reality headset lineup. In fiscal
+2022, Reality Labs revenue was $2,159 million. Reality Labs operating loss was $13,717 million
+in fiscal 2022.
+
+Key metrics (as of December 31, 2022):
+  - Facebook Daily Active Users (DAUs): 2.00 billion
+  - Facebook Monthly Active Users (MAUs): 2.96 billion
+  - Family Daily Active People (DAP): 2.96 billion
+  - Family Monthly Active People (MAP): 3.74 billion
+
+
+Human Capital
+
+As of December 31, 2022, Meta had approximately 86,482 full-time employees, a significant
+reduction from 87,314 employees at the end of 2021. In November 2022, Meta announced a
+restructuring that included a reduction in workforce of approximately 11,000 employees.
+
+
+PART II
+
+Item 6. Consolidated Financial Highlights
+
+                                            Fiscal 2022      Fiscal 2021
+                                           -----------      -----------
+Total revenue                              $116,609         $117,929
+Cost of revenue                             $22,649          $20,715
+Gross profit                                $93,960          $97,214
+  Gross margin percentage                    80.6%            82.4%
+
+Research and development                    $35,338          $24,655
+Marketing and sales                         $15,262          $14,043
+General and administrative                  $11,816           $9,829
+Total operating expenses                    $62,416          $48,527
+
+Operating income                            $28,944          $46,753
+  Operating margin                            24.8%            39.6%
+
+Net income                                  $23,200          $39,370
+Diluted earnings per share                    $8.59           $13.77
+
+Capital expenditures                        $32,000          $19,244
+
+Revenue by Segment (in millions):
+                                            Fiscal 2022      Fiscal 2021
+                                           -----------      -----------
+Family of Apps                             $114,450         $115,655
+Reality Labs                                $2,159           $2,274
+  Total revenue                            $116,609         $117,929
+
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+Executive Officers
+  Mark Zuckerberg — Chairman and Chief Executive Officer
+  Susan Li        — Chief Financial Officer (appointed November 2022)
+  Javier Olivan   — Chief Operating Officer
+  Chris Cox       — Chief Product Officer
+  Andrew Bosworth — Chief Technology Officer
+
+Chief Executive Officer: Mark Zuckerberg co-founded Facebook in 2004 and has served as CEO since
+the Company's inception.
+Chief Financial Officer: Susan Li was appointed CFO in November 2022, succeeding David Wehner
+who served as CFO from 2014 to 2022.
+
+
+Item 2. Properties
+
+Meta's principal offices are located in Menlo Park, California. The Company also maintains offices
+in major cities around the world. Meta owns and leases approximately 22.9 million square feet of
+building space globally.
+
+Total revenue decreased from $117,929 million in fiscal 2021 to $116,609 million in fiscal 2022,
+a decrease of $1,320 million or 1%, primarily due to a decline in advertising revenue caused by
+macroeconomic pressures and privacy-related changes to mobile platforms.
+
+The Reality Labs segment continues to operate at a significant loss as the Company invests in
+building the metaverse. Meta's target customers include advertisers, developers, businesses, and
+consumers worldwide.

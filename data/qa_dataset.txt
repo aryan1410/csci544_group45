@@ -1,0 +1,155 @@
+# ── Easily web-searchable (agent scores well here) ───────────────────────────
+
+Question 1: Who is Apple's Chief Executive Officer?
+Answer 1: Tim Cook
+
+Question 2: What is Apple's Nasdaq ticker symbol?
+Answer 2: AAPL
+
+Question 3: What stock exchange is Apple listed on?
+Answer 3: Nasdaq
+
+Question 4: What operating system does Apple use on its iPhone?
+Answer 4: iOS
+
+Question 5: What operating system does Apple use on its Mac computers?
+Answer 5: macOS
+
+Question 6: What operating system does Apple use on its iPad?
+Answer 6: iPadOS
+
+Question 7: What is the name of Apple's smartwatch?
+Answer 7: Apple Watch
+
+Question 8: What are Apple's wireless earbuds called?
+Answer 8: AirPods
+
+Question 9: What is Apple's contactless mobile payment service called?
+Answer 9: Apple Pay
+
+Question 10: What is Apple's cloud storage service called?
+Answer 10: iCloud
+
+Question 11: What is Apple's music streaming service called?
+Answer 11: Apple Music
+
+Question 12: What is Apple's app marketplace called?
+Answer 12: App Store
+
+Question 13: In which city is Apple's headquarters located?
+Answer 13: Cupertino
+
+Question 14: Which of Apple's product segments generates the most revenue?
+Answer 14: iPhone
+
+Question 15: What country is Apple headquartered in?
+Answer 15: United States
+
+# ── Medium difficulty (LLM knows from training, agent may partially find) ─────
+
+Question 16: Who was Apple's Chief Financial Officer during fiscal year 2023?
+Answer 16: Luca Maestri
+
+Question 17: Who is the Chairman of Apple's Board of Directors?
+Answer 17: Arthur Levinson
+
+Question 18: Which geographic segment represents Apple's largest market by net sales?
+Answer 18: Americas
+
+Question 19: Which geographic segment had the lowest net sales for Apple in fiscal year 2023?
+Answer 19: Japan
+
+Question 20: Which Apple product segment had the largest revenue decline from fiscal year 2022 to fiscal year 2023?
+Answer 20: Mac
+
+Question 21: Which Apple product segment grew its net sales from fiscal year 2022 to fiscal year 2023?
+Answer 21: Services
+
+Question 22: What percentage of Apple's fiscal 2023 net sales came through direct distribution channels?
+Answer 22: 37%
+
+Question 23: By what percentage did Apple's Mac net sales decline from fiscal year 2022 to fiscal year 2023?
+Answer 23: 27%
+
+Question 24: What products are included in Apple's Wearables, Home and Accessories segment?
+Answer 24: AirPods Apple TV Apple Watch Beats products HomePod
+
+Question 25: What customer types does Apple target with its products and services?
+Answer 25: consumers small and mid-sized businesses education enterprise government
+
+# ── Document-specific (requires reading the 10-K — RAG advantage) ─────────────
+
+Question 26: What was Apple's total net sales for fiscal year 2023?
+Answer 26: 383,285 million
+
+Question 27: What were Apple's iPhone net sales for fiscal year 2023?
+Answer 27: 200,583 million
+
+Question 28: What were Apple's Mac net sales for fiscal year 2023?
+Answer 28: 29,357 million
+
+Question 29: What were Apple's iPad net sales for fiscal year 2023?
+Answer 29: 28,300 million
+
+Question 30: What were Apple's Wearables, Home and Accessories net sales for fiscal year 2023?
+Answer 30: 39,845 million
+
+Question 31: What were Apple's Services net sales for fiscal year 2023?
+Answer 31: 85,200 million
+
+Question 32: What were Apple's Americas segment net sales for fiscal year 2023?
+Answer 32: 162,560 million
+
+Question 33: What were Apple's Europe segment net sales for fiscal year 2023?
+Answer 33: 94,294 million
+
+Question 34: What were Apple's Greater China segment net sales for fiscal year 2023?
+Answer 34: 72,559 million
+
+Question 35: What were Apple's Japan segment net sales for fiscal year 2023?
+Answer 35: 24,257 million
+
+Question 36: What were Apple's Rest of Asia Pacific segment net sales for fiscal year 2023?
+Answer 36: 29,615 million
+
+Question 37: What was Apple's net income for fiscal year 2023?
+Answer 37: 96,995 million
+
+Question 38: What was Apple's diluted earnings per share for fiscal year 2023?
+Answer 38: 6.13
+
+Question 39: What was Apple's gross margin percentage for fiscal year 2023?
+Answer 39: 44.1%
+
+Question 40: What was Apple's gross margin in dollars for fiscal year 2023?
+Answer 40: 169,148 million
+
+Question 41: What was Apple's operating income for fiscal year 2023?
+Answer 41: 114,301 million
+
+Question 42: What was Apple's research and development expense for fiscal year 2023?
+Answer 42: 29,915 million
+
+Question 43: What was Apple's selling, general and administrative expense for fiscal year 2023?
+Answer 43: 24,932 million
+
+Question 44: What was Apple's capital expenditures for fiscal year 2023?
+Answer 44: 10,959 million
+
+Question 45: What were Apple's total net sales for fiscal year 2022?
+Answer 45: 394,328 million
+
+Question 46: How many full-time equivalent employees did Apple have as of September 30, 2023?
+Answer 46: 161,000
+
+Question 47: How many retail stores did Apple operate as of September 30, 2023?
+Answer 47: 518
+
+Question 48: In how many countries did Apple operate retail stores as of September 30, 2023?
+Answer 48: 25
+
+Question 49: What was Apple's quarterly cash dividend per share declared in Q4 fiscal year 2023?
+Answer 49: 0.24
+
+Question 50: What was the amount of Apple's share repurchase program approved in May 2023?
+Answer 50: 90 billion

@@ -1,0 +1,112 @@
+ALPHABET INC.
+FORM 10-K
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 2022
+Filed with the United States Securities and Exchange Commission
+
+PART I
+
+Item 1. Business
+
+Overview
+
+Alphabet Inc. is a holding company whose principal subsidiary is Google LLC. Alphabet was created
+as part of a corporate restructuring of Google in 2015. Alphabet's businesses span technology
+products and services including online advertising, cloud computing, consumer electronics, and
+other services through subsidiaries including Google, Waymo, DeepMind, and Verily.
+
+The Company was incorporated in Delaware. Alphabet's principal executive offices are located at
+1600 Amphitheatre Parkway, Mountain View, California 94043. The Company's telephone number is
+(650) 253-0000. The Company's website address is www.abc.xyz. Alphabet's Class A common stock
+and Class C capital stock are listed on the Nasdaq Global Select Market under the symbols GOOGL
+and GOOG, respectively.
+
+Alphabet's fiscal year ends on December 31.
+
+
+Products and Services
+
+Google Services
+Google Services includes Google's advertising products (Google Search, YouTube ads, Google
+Network), Google's subscription and device products (Google Play, Google One, Pixel phones,
+Nest), and other Google services. In fiscal 2022, Google Services revenue was $253,528 million.
+
+Google Advertising Revenue (included within Google Services):
+  - Google Search and other:     $162,450 million
+  - YouTube ads:                  $29,243 million
+  - Google Network:               $32,780 million
+
+Google Cloud
+Google Cloud includes Google's infrastructure and data analytics platforms, collaboration tools,
+and other services for enterprise customers. In fiscal 2022, Google Cloud revenue was
+$26,280 million, an increase of $6,107 million or 30% from fiscal 2021.
+
+Other Bets
+Other Bets includes early-stage technology businesses such as Waymo (autonomous vehicles),
+Verily (life sciences), and other ventures. In fiscal 2022, Other Bets revenue was
+approximately $1,068 million.
+
+
+Human Capital
+
+As of December 31, 2022, Alphabet had 190,234 full-time employees. During 2022, Alphabet
+significantly expanded its workforce. However, in January 2023, the Company announced a
+reduction in force of approximately 12,000 roles.
+
+
+PART II
+
+Item 6. Consolidated Financial Highlights
+
+                                            Fiscal 2022      Fiscal 2021
+                                           -----------      -----------
+Total revenues                             $282,836         $257,637
+Cost of revenues                           $126,203         $110,939
+Gross profit                               $156,633         $146,698
+  Gross margin percentage                    55.4%            56.9%
+
+Research and development                    $39,500          $31,562
+Sales and marketing                         $26,567          $22,912
+General and administrative                  $15,724           $9,770
+Total operating expenses                    $81,791          $64,244
+
+Operating income                            $74,842          $78,714
+Net income                                  $59,972          $76,033
+Diluted earnings per share                    $4.56            $5.61
+
+Capital expenditures                        $31,485          $24,273
+
+Revenue by Segment (in millions):
+                                            Fiscal 2022      Fiscal 2021
+                                           -----------      -----------
+Google Services                            $253,528         $237,529
+Google Cloud                                $26,280          $19,206
+Other Bets                                   $1,068             $753
+Hedging gains (losses)                       $1,960             $149
+  Total revenues                           $282,836         $257,637
+
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+Executive Officers
+  Sundar Pichai  — Chief Executive Officer of Alphabet and Google
+  Ruth Porat     — Senior Vice President and Chief Financial Officer
+  Prabhakar Raghavan — Senior Vice President
+  Philipp Schindler — Senior Vice President and Chief Business Officer
+
+Chief Executive Officer: Sundar Pichai has served as CEO of Alphabet since December 2019 and
+CEO of Google since October 2015.
+Chief Financial Officer: Ruth Porat has served as SVP and CFO since May 2015.
+
+
+Item 2. Properties
+
+Alphabet's principal offices are located in Mountain View, California. The Company's properties
+include approximately 25.9 million square feet of office space globally.
+
+Total revenues decreased from fiscal 2021 to fiscal 2022, reflecting a challenging macroeconomic
+environment that led to reduced advertiser spending, particularly in the second half of 2022.
+YouTube ad revenues declined year-over-year for the first time since Alphabet began disclosing
+that metric separately.
+
+Google Cloud achieved its first full-year operating profit contribution in fiscal 2022. Alphabet's
+target customers include online advertisers, enterprise cloud customers, and consumers worldwide.

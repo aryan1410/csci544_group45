@@ -1,0 +1,112 @@
+MICROSOFT CORPORATION
+FORM 10-K
+FOR THE FISCAL YEAR ENDED JUNE 30, 2023
+Filed with the United States Securities and Exchange Commission
+
+PART I
+
+Item 1. Business
+
+Overview
+
+Microsoft Corporation develops and supports software, services, devices, and solutions worldwide.
+The Company was founded in 1975. Microsoft's mission is to empower every person and every
+organization on the planet to achieve more. The Company's fiscal year ends on June 30.
+
+The Company is incorporated in the state of Washington. The Company's principal executive offices
+are located at One Microsoft Way, Redmond, Washington 98052-6399. The Company's telephone number
+is (425) 882-8080. The Company's website address is www.microsoft.com. The Company's common stock
+is listed on the Nasdaq Global Select Market under the symbol MSFT.
+
+
+Products and Services
+
+Productivity and Business Processes
+This segment includes products and services in the portfolio of Office, Exchange, SharePoint,
+Microsoft Teams, Office 365 Security and Compliance, and Microsoft Viva (Productivity and
+Business Processes). The segment also includes LinkedIn and Dynamics business solutions. In fiscal
+2023, Productivity and Business Processes revenue was $69,274 million.
+
+Intelligent Cloud
+This segment includes server products and cloud services, including Microsoft Azure, SQL Server,
+Windows Server, Visual Studio, System Center, and GitHub. In fiscal 2023, Intelligent Cloud revenue
+was $87,907 million. Azure and other cloud services revenue grew 29% year-over-year in fiscal 2023.
+
+More Personal Computing
+This segment includes Windows, devices (including Surface and PC accessories), gaming (including
+Xbox hardware, Xbox content and services, and first-party content), and search and news advertising.
+In fiscal 2023, More Personal Computing revenue was $54,734 million.
+
+
+Human Capital
+
+As of June 30, 2023, Microsoft employed approximately 221,000 full-time employees, with
+approximately 122,000 employees in the United States and approximately 99,000 employees
+internationally.
+
+
+Distribution
+
+Microsoft distributes its products and services through the following channels: OEM, direct, and
+third-party resellers. Cloud services are available directly through Microsoft or through
+partner resellers.
+
+
+PART II
+
+Item 6. Consolidated Financial Highlights
+
+                                            Fiscal 2023      Fiscal 2022
+                                           -----------      -----------
+Total revenue                              $211,915         $198,270
+Cost of revenue                             $65,863          $62,650
+Gross margin                               $146,052         $135,620
+  Gross margin percentage                    68.9%            68.4%
+
+Research and development                    $27,195          $24,512
+Sales and marketing                         $22,759          $21,825
+General and administrative                   $7,575           $5,900
+Total operating expenses                    $57,529          $52,237
+
+Operating income                            $88,523          $83,383
+Net income                                  $72,361          $72,738
+Diluted earnings per share                    $9.72            $9.65
+
+Capital expenditures                        $28,107          $23,886
+
+Revenue by Segment (in millions):
+                                            Fiscal 2023      Fiscal 2022
+                                           -----------      -----------
+Productivity and Business Processes         $69,274          $63,364
+Intelligent Cloud                           $87,907          $75,251
+More Personal Computing                     $54,734          $59,655
+  Total revenue                            $211,915         $198,270
+
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+Executive Officers
+  Satya Nadella    — Chairman and Chief Executive Officer
+  Amy Hood         — Executive Vice President and Chief Financial Officer
+  Brad Smith       — President and Vice Chair
+  Judson Althoff   — Executive Vice President and Chief Commercial Officer
+  Christopher Young — Executive Vice President, Business Development, Strategy and Ventures
+
+Chief Executive Officer: Satya Nadella has served as CEO since February 2014.
+Chief Financial Officer: Amy Hood has served as CFO since 2013.
+
+
+Item 2. Properties
+
+Microsoft's principal executive offices are located in Redmond, Washington. The Company owns
+approximately 15 million square feet of building space worldwide and leases approximately
+8 million square feet of building space globally, primarily in the United States.
+
+The Company's fiscal year 2023 ended on June 30, 2023. Total revenue increased $13,645 million
+or approximately 7% from fiscal 2022 to fiscal 2023.
+
+Microsoft's target customers include enterprise, commercial, government, educational, and consumer
+markets worldwide.
+
+The Company's cloud-first strategy is reflected in the strong growth of Intelligent Cloud, which
+at $87,907 million represents the Company's largest revenue segment in fiscal 2023.

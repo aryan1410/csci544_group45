@@ -1,0 +1,122 @@
+AMAZON.COM, INC.
+FORM 10-K
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 2022
+Filed with the United States Securities and Exchange Commission
+
+PART I
+
+Item 1. Business
+
+Overview
+
+Amazon.com, Inc. was incorporated in 1994 in the state of Delaware. Amazon is guided by four
+principles: customer obsession, passion for invention, commitment to operational excellence, and
+long-term thinking. Amazon strives to be Earth's most customer-centric company, Earth's best
+employer, and Earth's safest place to work.
+
+The Company's principal executive offices are located at 410 Terry Avenue North, Seattle,
+Washington 98109-5210. The Company's telephone number is (206) 266-1000. The Company's website
+address is www.amazon.com. The Company's common stock is listed on the Nasdaq Global Select Market
+under the symbol AMZN.
+
+Amazon's fiscal year ends on December 31.
+
+
+Products and Services
+
+North America Segment
+The North America segment includes retail sales of consumer products and subscriptions through
+North America-focused websites such as www.amazon.com and www.amazon.ca. It also includes sales
+through Amazon's physical stores and advertising services. In fiscal 2022, North America segment
+net sales were $315,880 million. North America segment operating income was $3,531 million
+in fiscal 2022.
+
+International Segment
+The International segment includes retail sales of consumer products and subscriptions through
+internationally focused websites. In fiscal 2022, International segment net sales were
+$118,007 million. International operating loss was $7,746 million in fiscal 2022, primarily
+due to macroeconomic pressures including the impact of foreign exchange rates.
+
+Amazon Web Services (AWS)
+AWS serves millions of active customers in more than 240 countries and territories. AWS offers
+a broad set of cloud computing services including compute, storage, database, analytics,
+networking, machine learning and AI, developer tools, IoT, and security services. In fiscal 2022,
+AWS net sales were $80,096 million, an increase of $21,358 million or 29% from fiscal 2021.
+AWS operating income was $22,841 million in fiscal 2022.
+
+
+Human Capital
+
+Amazon employed approximately 1,541,000 full-time and part-time employees as of December 31,
+2022. This represents a decrease of approximately 99,000 employees from December 31, 2021, when
+the Company had approximately 1,622,000 employees.
+
+
+PART II
+
+Item 6. Consolidated Financial Highlights
+
+                                            Fiscal 2022      Fiscal 2021
+                                           -----------      -----------
+Total net sales                            $513,983         $469,822
+Cost of sales                              $288,831         $272,344
+Gross profit                               $225,152         $197,478
+  Gross margin percentage                    43.8%            42.0%
+
+Fulfillment                                 $84,299          $75,111
+Technology and content                      $73,213          $56,052
+Sales and marketing                         $42,238          $32,551
+General and administrative                  $11,891           $8,823
+Other operating expense                      $1,263             $62
+Total operating expenses                   $212,904         $172,599
+
+Operating income                            $12,248          $24,879
+  Operating margin                             2.4%             5.3%
+
+Net income (loss)                           ($2,722)         $33,364
+Diluted EPS                                  ($0.27)           $3.24
+
+Capital expenditures (including finance
+  leases)                                   $63,645          $61,053
+
+Net Sales by Segment (in millions):
+                                            Fiscal 2022      Fiscal 2021
+                                           -----------      -----------
+North America                              $315,880         $279,833
+International                              $118,007         $127,787
+AWS                                         $80,096          $62,202
+  Total net sales                          $513,983         $469,822
+
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+Executive Officers
+  Andy Jassy         — President and Chief Executive Officer
+  Brian Olsavsky     — Senior Vice President and Chief Financial Officer
+  Jeffrey Blackburn  — Senior Vice President, Global Media and Entertainment
+  Andrew Jassy       — President and CEO (formerly head of AWS)
+  Adam Selipsky      — Chief Executive Officer, AWS
+
+Chief Executive Officer: Andy Jassy became President and CEO of Amazon in July 2021, succeeding
+Amazon founder Jeff Bezos who transitioned to Executive Chairman.
+Chief Financial Officer: Brian Olsavsky has served as CFO since June 2015.
+
+
+Item 2. Properties
+
+Amazon's principal executive offices are located in Seattle, Washington. Amazon operates a
+globally distributed network of fulfillment centers, delivery stations, data centers, and
+corporate offices. The Company's fulfillment and data center network spans millions of square
+feet across North America, Europe, Asia, and other regions.
+
+Total net sales increased $44,161 million or 9% from fiscal 2021 to fiscal 2022. Amazon reported
+a net loss of $2,722 million in fiscal 2022, compared to net income of $33,364 million in fiscal
+2021, primarily due to a pre-tax valuation loss of $12,700 million included in non-operating
+expense from Amazon's common stock investment in Rivian Automotive, Inc.
+
+AWS remains Amazon's most profitable segment, contributing $22,841 million in operating income,
+offsetting losses in the North America and International segments during fiscal 2022.
+
+Amazon's customers include consumers, sellers, developers, enterprises, and content creators
+worldwide. Prime membership provides customers with access to free shipping, streaming video,
+streaming music, and other benefits.

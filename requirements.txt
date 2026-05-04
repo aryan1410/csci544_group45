@@ -1,0 +1,28 @@
+# =============================================================================
+# CSCI544 Project — Centralized Requirements
+# Covers: static_llm/, rag/, agent/
+# Python >= 3.11 required
+# =============================================================================
+
+python-dotenv>=1.0.0
+
+groq>=0.9.0
+datasets>=2.14.0
+
+openai>=1.30.0
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-openai>=0.1.0
+faiss-cpu>=1.7.4
+
+langchain-google-genai>=1.0.0
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+requests>=2.31.0
+
+tavily-python>=0.3.0
+google-search-results>=2.4.2

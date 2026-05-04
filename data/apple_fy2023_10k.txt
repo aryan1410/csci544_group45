@@ -1,0 +1,251 @@
+APPLE INC.
+FORM 10-K
+FOR THE FISCAL YEAR ENDED SEPTEMBER 30, 2023
+Filed with the United States Securities and Exchange Commission
+
+PART I
+
+Item 1. Business
+
+Overview
+
+Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables,
+and accessories worldwide. The Company also sells a variety of related services. The Company's fiscal
+year is the 52 or 53-week period that ends on the last Saturday of September. The Company's fiscal
+year 2023 ended on September 30, 2023 and spanned 53 weeks.
+
+The Company was incorporated in California on January 3, 1977. The Company's principal executive
+offices are located at One Apple Park Way, Cupertino, California 95014. The Company's telephone
+number is (408) 996-1010. The Company's website address is www.apple.com. The Company's common
+stock is listed on the Nasdaq Stock Market LLC under the symbol AAPL.
+
+The Company's principal products and services are:
+  - iPhone: a line of smartphones
+  - Mac: a line of personal computers
+  - iPad: a line of multi-purpose tablets
+  - Wearables, Home and Accessories: includes AirPods, Apple TV, Apple Watch, Beats products, and HomePod
+  - Services: includes advertising, AppleCare, cloud services, digital content, payment services, and licensing
+
+
+Products and Services
+
+iPhone
+iPhone is the Company's line of smartphones based on its iOS operating system. iPhone includes
+accessories and peripherals compatible with iPhone. In fiscal 2023, iPhone net sales were
+$200,583 million, representing approximately 52% of the Company's total net sales.
+
+Mac
+Mac is the Company's line of personal computers based on its macOS operating system. Mac includes
+accessories and displays compatible with Mac. In fiscal 2023, Mac net sales were $29,357 million.
+
+iPad
+iPad is the Company's line of multi-purpose tablets based on its iPadOS operating system. iPad
+includes accessories compatible with iPad. In fiscal 2023, iPad net sales were $28,300 million.
+
+Wearables, Home and Accessories
+Wearables, Home and Accessories includes products such as AirPods, Apple TV, Apple Watch, Beats
+products, and HomePod. AirPods are the Company's wireless headphones. Apple Watch is the
+Company's line of smartwatches based on its watchOS operating system. Apple TV is the Company's
+digital media player based on its tvOS operating system. In fiscal 2023, Wearables, Home and
+Accessories net sales were $39,845 million.
+
+Services
+Services includes advertising, AppleCare, cloud services, digital content, payment services, and
+licensing. The Company's Services offerings include:
+  - Advertising: third-party licensing arrangements and the Company's own advertising platforms
+  - AppleCare: technical support and hardware repair services
+  - Cloud services: iCloud storage and related services
+  - Digital content: the App Store, Apple Arcade, Apple Books, Apple Fitness+, Apple Music, Apple
+    News+, Apple One, and Apple TV+
+  - Payment services: Apple Card, Apple Cash, and Apple Pay
+  - Licensing: intellectual property licensing arrangements
+
+In fiscal 2023, Services net sales were $85,200 million, an increase of $7,071 million or 9% from
+fiscal 2022.
+
+
+Distribution and Sales
+
+The Company distributes its products and resells third-party products in most of its major markets
+directly to consumers, small and mid-sized businesses, and education, enterprise, and government
+customers through its retail and online stores and its direct sales force. The Company also utilizes
+a variety of indirect distribution channels, such as third-party cellular network carriers,
+wholesalers, retailers, and value-added resellers.
+
+In fiscal 2023, the Company's net sales through its direct and indirect distribution channels
+accounted for 37% and 63%, respectively, of total net sales.
+
+As of September 30, 2023, the Company operated 518 retail stores in 25 countries. The Company's
+retail stores offer a range of the Company's products and services, as well as the products of
+select third-party suppliers.
+
+
+Human Capital
+
+As of September 30, 2023, the Company had approximately 161,000 full-time equivalent employees.
+This compares to approximately 164,000 full-time equivalent employees as of September 24, 2022,
+a decrease of approximately 3,000 employees.
+
+The Company believes its success depends substantially on its ability to attract, develop, and
+retain key personnel. The Company is committed to fostering a diverse and inclusive workplace.
+
+
+Competition
+
+The markets for the Company's products and services are highly competitive and are characterized by
+aggressive price competition, frequent product introductions, and rapid technological changes. The
+Company's competitors who sell mobile communications and media devices and personal computers have
+significantly broader product lines and greater financial resources than the Company. The Company
+focuses on the innovation, quality, design, and customer experience of its products and services.
+
+
+Item 1A. Risk Factors
+
+The following risk factors could materially adversely affect the Company's business, reputation,
+results of operations, financial condition, and stock price, and could cause actual results to
+differ materially from those projected in any forward-looking statements. The Company's business,
+financial condition, and operating results can be affected by a number of factors, whether
+currently known or unknown, including but not limited to the following:
+
+  - Dependence on the performance of iPhone: The Company has historically derived the majority
+    of its net sales from its iPhone line of products.
+  - Global economic conditions and foreign currency exchange rate fluctuations: The Company has
+    substantial international operations and a significant portion of its revenue is generated
+    outside the United States.
+  - Competition: The markets for the Company's products and services are highly competitive.
+  - Supply chain risks: The Company relies on single-source suppliers for certain components.
+  - Regulatory risks: The Company is subject to complex and changing laws and regulations
+    worldwide, including data privacy, antitrust, and tax matters.
+  - Intellectual property risks: The Company regularly files patent applications to protect
+    innovations developed by the Company.
+
+
+PART II
+
+Item 5. Market for Registrant's Common Equity
+
+The Company's common stock is listed on the Nasdaq Global Select Market under the trading symbol
+AAPL.
+
+Dividends
+During fiscal 2023, the Company declared and paid cash dividends per share as follows:
+  Q1 (October - December 2022): $0.23 per share
+  Q2 (January - March 2023):   $0.23 per share
+  Q3 (April - June 2023):      $0.24 per share
+  Q4 (July - September 2023):  $0.24 per share
+
+In May 2023, the Board of Directors approved a new share repurchase program of up to $90 billion.
+During Q4 fiscal 2023, the Company returned nearly $25 billion to shareholders.
+
+Item 6. Consolidated Financial Highlights
+
+The following tables summarize the Company's consolidated results of operations for fiscal 2023
+and fiscal 2022 (in millions, except per share data):
+
+                                            Fiscal 2023      Fiscal 2022
+                                           -----------      -----------
+Total net sales                            $383,285         $394,328
+Cost of sales                              $214,137         $223,546
+Gross margin                               $169,148         $170,782
+  Gross margin percentage                    44.1%            43.3%
+
+Research and development                    $29,915          $26,251
+Selling, general and administrative         $24,932          $25,094
+Total operating expenses                    $54,847          $51,345
+
+Operating income                           $114,301         $119,437
+  Operating income percentage                29.8%            30.3%
+
+Net income                                  $96,995          $99,803
+Diluted earnings per share                    $6.13            $6.11
+Cash dividends declared per share             $0.94            $0.90
+
+Capital expenditures                        $10,959          $10,708
+
+Net Sales by Product (in millions):
+                                            Fiscal 2023      Fiscal 2022
+                                           -----------      -----------
+iPhone                                     $200,583         $205,489
+Mac                                         $29,357          $40,177
+iPad                                        $28,300          $29,292
+Wearables, Home and Accessories             $39,845          $41,241
+Services                                    $85,200          $78,129
+  Total net sales                          $383,285         $394,328
+
+Net Sales by Reportable Segment (in millions):
+                                            Fiscal 2023      Fiscal 2022
+                                           -----------      -----------
+Americas                                   $162,560         $169,658
+Europe                                      $94,294          $95,118
+Greater China                               $72,559          $74,200
+Japan                                       $24,257          $25,977
+Rest of Asia Pacific                        $29,615          $29,375
+  Total net sales                          $383,285         $394,328
+
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+Board of Directors
+The following persons are directors of the Company:
+  Arthur D. Levinson, Ph.D. — Chairman of the Board of Directors
+  Tim Cook — Chief Executive Officer and Director
+  James A. Bell
+  Al Gore
+  Alex Gorsky
+  Andrea Jung
+  Monica Lozano
+  Ron Sugar
+  Susan L. Wagner
+
+Executive Officers
+The following persons are executive officers of the Company:
+  Tim Cook — Chief Executive Officer
+  Luca Maestri — Senior Vice President and Chief Financial Officer
+  Jeff Williams — Chief Operating Officer
+  Katherine Adams — Senior Vice President, General Counsel and Secretary
+  Deirdre O'Brien — Senior Vice President, Retail + People
+  Craig Federighi — Senior Vice President, Software Engineering
+  Eddy Cue — Senior Vice President, Services
+  Greg Joswiak — Senior Vice President, Worldwide Marketing
+  John Ternus — Senior Vice President, Hardware Engineering
+  Sabih Khan — Senior Vice President, Operations
+
+Chief Executive Officer: Tim Cook has served as CEO of Apple since August 2011.
+Chief Financial Officer: Luca Maestri has served as CFO of Apple since 2014.
+Chairman of the Board: Arthur D. Levinson has served as Chairman since November 2011.
+
+
+Item 2. Properties
+
+The Company's headquarters are located in Cupertino, California. As of September 30, 2023, the
+Company owned or leased facilities and land for corporate functions, R&D, data centers, retail
+and other purposes. As of September 30, 2023, the Company operated 518 retail stores in 25
+countries totaling approximately 5.6 million square feet. The Company owns its principal
+headquarters facilities in Cupertino, California, encompassing approximately 6.1 million square
+feet.
+
+
+Additional Notes
+
+The Company's fiscal year 2022 total net sales of $394,328 million represent a decline to
+$383,285 million in fiscal year 2023, a decrease of $11,043 million or 2.8%.
+
+Mac net sales decreased $10,820 million or 27% from fiscal 2022 to fiscal 2023, primarily due to
+the challenging macroeconomic environment and a difficult year-over-year comparison.
+
+Services net sales increased $7,071 million or 9% from fiscal 2022 to fiscal 2023, driven by
+growth across all Services categories.
+
+iPhone net sales decreased $4,906 million or 2% from fiscal 2022 to fiscal 2023.
+
+Wearables, Home and Accessories net sales decreased $1,396 million or 3% from fiscal 2022 to
+fiscal 2023.
+
+iPad net sales decreased $992 million or 3% from fiscal 2022 to fiscal 2023.
+
+The Company's target markets include consumers, small and mid-sized businesses, and education,
+enterprise, and government customers.
+
+Apple's iPhone uses the iOS operating system. Apple's Mac computers use the macOS operating
+system. Apple's iPad uses the iPadOS operating system. Apple's Apple Watch uses the watchOS
+operating system. Apple's Apple TV uses the tvOS operating system.

@@ -1,0 +1,1668 @@
+[
+  {
+    "dataset": "TriviaQA",
+    "question": "In which country were the 1948 Winter Olympics held?",
+    "ground_truths": [
+      "Switzerland",
+      "ISO 3166-1:CH",
+      "Svissland",
+      "Etymology of Switzerland",
+      "Confederation Helvetia",
+      "Swizerland",
+      "Confederatio Helvetica",
+      "Environmental Integrity Group",
+      "Confoederatio Helvetica",
+      "Svizra",
+      "SWITZERLAND",
+      "Confédération suisse",
+      "SwissEnergy",
+      "Schweitz",
+      "Švýcarsko",
+      "Die Schweiz",
+      "Schwitzerland",
+      "Confederation suisse",
+      "Der Schweiz",
+      "Swiss Confederated States",
+      "Suiza",
+      "Switz",
+      "Switzeland",
+      "Schweiz",
+      "Confederation Helvetica",
+      "Switserland",
+      "Suisse",
+      "Schweizerische Eidgenossenschaft",
+      "Switzerland information",
+      "Confederaziun Svizra",
+      "Switzer land",
+      "Switzerland",
+      "Land of the Switzers",
+      "Swiss confederation",
+      "Confœderatio Helvetica",
+      "Swiss",
+      "Confederation Suisse",
+      "Confederation of Helvatia",
+      "Land of the Swiss",
+      "Confederaziun svizra",
+      "Svizzera",
+      "Swissland",
+      "Swizterland",
+      "Confédération Suisse",
+      "Confederazione Svizzera",
+      "Swiss Confederation"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Celandine, topaz and gamboge are shades of which colour?",
+    "ground_truths": [
+      "Yellow",
+      "Yellowest",
+      "Whiteyellow",
+      "Yelow",
+      "Yellow color",
+      "Yellowishness",
+      "Yellower",
+      "White-yellow",
+      "Rgb(255, 255, 0)",
+      "Dark yellow",
+      "Yellowwhite",
+      "Symbolism of yellow",
+      "Yellow (color)",
+      "Yellow (colour)",
+      "Yellowy",
+      "Yellow white",
+      "Yellowishly",
+      "White yellow",
+      "Yellow (Colour)",
+      "(255, 255, 0)",
+      "Yellow",
+      "Royal yellow",
+      "Yellow-white"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Which song begins with the line The taxman's taken all my dough?",
+    "ground_truths": [
+      "Sunny Afternoon",
+      "Sunny Afternoon"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "March 30, 1853 saw the birth of one of the most influential painters of all time, Vincent van Gogh, in what European country?",
+    "ground_truths": [
+      "The Netherlands",
+      "NETHERLANDS",
+      "The netherland",
+      "Nederlandia",
+      "Climate of the Netherlands",
+      "Administrative divisions of the netherlands",
+      "The Netheralands",
+      "Nyderlandai",
+      "Northern Netherlands",
+      "Holland (country)",
+      "Administrative divisions of the Netherlands",
+      "The Netherlands",
+      "Netherlands",
+      "Pays-Bas",
+      "Netherlands, (Dut/Hol)",
+      "ISO 3166-1:NL",
+      "Olanda",
+      "Netherlands/HistoryTalk",
+      "Capitals of Holland",
+      "Neatherlands",
+      "The netherlands",
+      "Dutch inhabitants",
+      "Netherlands, The",
+      "European Netherlands",
+      "Subdivisions of the Netherlands",
+      "Mainland Netherlands",
+      "Metropolitan Netherlands",
+      "Nehterlands",
+      "Netherlands (European territory)"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "What is the pen-name of the gossip columnist in the Daily Express, first written by Tom Driberg in 1928 and later Nigel Dempster in the 1960s?",
+    "ground_truths": [
+      "William Hickey",
+      "William Hickey",
+      "Hickey, William",
+      "William Hickey (disambiguation)"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "'The Umbrellas' is the work of which French impressionist?",
+    "ground_truths": [
+      "Renoir",
+      "Pierre Auguste Renoir",
+      "Firmin Auguste Renoir",
+      "Renoir",
+      "Pierre August Renoir",
+      "Pierre-August Renoir",
+      "Pierre-Auguste Renoir",
+      "Auguste Renoir",
+      "Renoir, Pierre Auguste"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "What is the common name for the garden shrub pyracantha?",
+    "ground_truths": [
+      "FIRETHORN",
+      "Pyracantha",
+      "FIRETHORN",
+      "Pyrocanthus",
+      "Firethorn",
+      "Pyracanthas",
+      "Pyrocantha",
+      "Fire thorn",
+      "Pyracanthus"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "What is the climate change agreement aimed at stabilizing greenhouse gas levels in the atmosphere, named after the Japanese city in which participating nations agreed its framework in 1997?",
+    "ground_truths": [
+      "Kyoto Protocol",
+      "Kyoto Protocol to the United Nations Framework Convention on Climate Change",
+      "Kioto protocol",
+      "Kioto agreement",
+      "Kyoto Treaty",
+      "Opposition to the Kyoto Protocol",
+      "Kyoto Conference on Climate Change",
+      "Kyoto Climate Change Treaty",
+      "Kyoto Protocol on Global Warming",
+      "Kyoto accord",
+      "Kyoto protocol",
+      "Kyoto-Protocol",
+      "Kyoto Accord",
+      "Doha amendment to the Kyoto Protocol",
+      "Kyoto Protocol",
+      "The Kyoto Protocol",
+      "Kyoto protocols",
+      "Kyōto Protocol",
+      "Green investment scheme",
+      "Green investment schemes",
+      "QELRO",
+      "Green Investment Scheme",
+      "GHG project",
+      "Kyoto Protocols",
+      "Doha Amendment to the Kyoto Protocol",
+      "Kyoto Accords",
+      "Kyoto agreement",
+      "Kyoto Mechanisms",
+      "Kioto Protocol",
+      "Kyoto Credits",
+      "Koyoto protocol",
+      "Kyoto treaty",
+      "Kyoto Pact",
+      "Climate Change-Kyoto Protocol",
+      "Conference of the Parties (Kyoto Protocol)",
+      "1997 Kyoto Protocol",
+      "Kyoto Agreement",
+      "Kyoto Protocal",
+      "Doha Amendment"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Which 70s show was based on the British show Till Death Us Do Part?",
+    "ground_truths": [
+      "All In The Family",
+      "All In The Family",
+      "All in the family",
+      "Justice For All (TV pilot)",
+      "Stretch Cunningham",
+      "All in the Family (US series)",
+      "Those Were the Days (TV pilot)",
+      "All In the Family",
+      "Millard Fillmore High School",
+      "All in the Family",
+      "Justice for All (TV pilot)",
+      "Those Were The Days (TV pilot)"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "In Greek Mythology, who is the father of Odysseus?",
+    "ground_truths": [
+      "LAERTES",
+      "Allwoes",
+      "LAERTES",
+      "Laertes",
+      "King Allwoes",
+      "Learetes",
+      "Laërtês",
+      "All woes",
+      "Laërtes",
+      "Λαέρτης",
+      "Laértes"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "The national opera company Opera North is based in which English city?",
+    "ground_truths": [
+      "Leeds",
+      "Leeds, UK",
+      "St Margaret's Primary School, Horsforth",
+      "ST Margarets Primary School",
+      "St Margarets Primary School",
+      "St margarets school",
+      "City of leeds transport area",
+      "The weather in Leeds",
+      "Leeds, Yorkshire",
+      "Knightsbridge of the North",
+      "Shakespeare Primary School",
+      "Higher Education in Leeds",
+      "Leeds, England",
+      "Leeds, West Yorkshire",
+      "Leeds",
+      "Leodis",
+      "LEEDS",
+      "Leeds – Bradford, UK",
+      "Leodensian",
+      "UN/LOCODE:GBLBA"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Who evaded capture disguised as Betty Burke?",
+    "ground_truths": [
+      "Bonnie Prince Charlie",
+      "Betty Burke",
+      "Charles Edward Louis John Casimir Silvester Severino Maria Stuart",
+      "Prince Charles Edward Louis Philip Casimir Stuart",
+      "Charles III of Ireland",
+      "Prince Charles Stuart",
+      "The Young Pretender",
+      "Young Pretender",
+      "The Bonnie Prince Charlie",
+      "Charles Edward, the Young Pretender",
+      "Bonny Prince Charlie",
+      "Young Chevalier",
+      "Prince Charles Edward Stuart",
+      "The Young Pretender Charles Edward",
+      "Charles Edward Louis Philip Casimir Stuart",
+      "Charles Edward Louis John Casimir Silverster Maria Stuart",
+      "Charles obscure",
+      "Bonnie Prince Charlie",
+      "The young pretender",
+      "Charles Edward Stuart",
+      "Charles Edward Stewart",
+      "Charles Stewart(of Ardsheal)",
+      "Count of Albany",
+      "Charles Edward Louis Philip Casimir",
+      "Prince Charlie",
+      "Bonnie Prince Charles"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Which product is advertised on TV with the slogan 'It does exactly what it says on the tin'?",
+    "ground_truths": [
+      "RONSEAL",
+      "Ronseal",
+      "RONSEAL"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "What is the name of the drunken robot in the TV series Futurama?",
+    "ground_truths": [
+      "BENDER",
+      "Bender (disambiguation)",
+      "BENDER",
+      "Bender"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "In which Spanish city is the Alhambra Palace located?",
+    "ground_truths": [
+      "Granada",
+      "Granada",
+      "UN/LOCODE:ESGRX",
+      "Illiberi Liberini",
+      "Granada (city)",
+      "Eliberri",
+      "Elibyrge",
+      "Ilbira",
+      "Elybirge",
+      "Granada, Granada",
+      "Granada, Spain",
+      "The weather in Granada",
+      "Illiber"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "In the books by Raymond Briggs what type of creature is Fungus",
+    "ground_truths": [
+      "Bogeyman",
+      "Boogie men",
+      "Boogey man",
+      "The Bogeyman",
+      "Babay",
+      "Bogie Man",
+      "Baubaus",
+      "The Bogey Man",
+      "Boggie man",
+      "Babau",
+      "Tankerabogus",
+      "The boogieman",
+      "Bogie man",
+      "Baubau",
+      "Boogey Man",
+      "The Boogie Man",
+      "Bogyman",
+      "Booger Monster",
+      "Bogieman",
+      "Boggie Man",
+      "Boogie Man",
+      "The Boogy Man",
+      "Bogy Man",
+      "Boogie man",
+      "Al-bubu",
+      "Babau (legendary creature)",
+      "Bogey Man",
+      "Boogeymen",
+      "Bavbav",
+      "Boogeyman",
+      "Boogiemen",
+      "The Boogeyman",
+      "Boogieman",
+      "The Boogey Man",
+      "Ranye Dougo",
+      "Baboulas",
+      "Man With a Sack",
+      "Bogey man",
+      "Bogeyman",
+      "Cacooey",
+      "Bogeymen",
+      "The bogieman",
+      "Boogyman",
+      "Croquemitaine",
+      "The Boogieman"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Charles Rennie Mackintosh was a leading exponent of which art movement around the 1900's?",
+    "ground_truths": [
+      "ART NOUVEAU",
+      "Art-Nouveau",
+      "Die Jugend",
+      "Art noveau",
+      "Jugenstil",
+      "Art Noveau",
+      "Modern Style",
+      "Art Nouveau Jewellery",
+      "Art nouveau",
+      "Modern style",
+      "Jugend style",
+      "ART NOUVEAU",
+      "Art Nouveau",
+      "Stile Liberty",
+      "Jugendstil",
+      "Jungenstil"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Which common English word is derived from the ancient Greek word meaning 'the area in front of the stage where the chorus performs'?",
+    "ground_truths": [
+      "Orchestra",
+      "Orchestra music",
+      "Orchestra",
+      "Large orchestra",
+      "Symphony orchestra",
+      "Philharmonic orchestra",
+      "Philharmony",
+      "Orchestra and orchestration",
+      "Philarmonic orchestra",
+      "Philharmonic",
+      "Orchestral",
+      "Symphonic music",
+      "Orchestras",
+      "Ochestraic",
+      "Chamber Orchestra",
+      "Sections of an orchestra",
+      "Orchestral music",
+      "Orchaestra",
+      "Sky orchestra",
+      "Symphony Orchestras",
+      "Chamber orchestra",
+      "Symphonic orchestra",
+      "Philharmonic Orchestra",
+      "Symphony Orchestra",
+      "Symphonic Music",
+      "Orchestral work",
+      "Symphony orchestras"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "In the human body, what is stored in adipose tissue?",
+    "ground_truths": [
+      "Fat",
+      "Fattyness",
+      "Fatty oil",
+      "Dietary fats",
+      "Fat",
+      "Total fat",
+      "Dietary fat",
+      "Fats and oils"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "What nationality was the botanist Carolus Linnaeus?",
+    "ground_truths": [
+      "Swedish",
+      "Swedish",
+      "SwedisH",
+      "Swedish (disambiguation)",
+      "Sweedish",
+      "Svensk"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Which of the Kray brothers died first?",
+    "ground_truths": [
+      "Ronnie",
+      "Ronnie (disambiguation)",
+      "Ronnie (song)",
+      "Ronnie"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Which playing card is called the curse of Scotland",
+    "ground_truths": [
+      "Nine of diamonds",
+      "Nine of Diamonds",
+      "Nine of diamonds",
+      "Curse of Scotland",
+      "Curse of scotland"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "\"What is the \"\"proper name\"\" for the main character in a series of novels by John Updike, who is nicknamed \"\"Rabbit\"\"?\"",
+    "ground_truths": [
+      "Harry Angstrom",
+      "Rabbit Angstrom",
+      "Harry Angstrom",
+      "Ruth Leonard",
+      "Rabbit, Run",
+      "Rabbit, Run (novel)",
+      "Rabbit Run",
+      "Harold Angstrom"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Which writer created the detective Charlie Chan?",
+    "ground_truths": [
+      "EARL DERR BIGGERS",
+      "EARL DERR BIGGERS",
+      "Earl Biggers",
+      "Earl Derr Biggers"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "He was the fourth of 6 children and the oldest surviving, was a choir singer, a painter, a writer, an admirer of Martin Luther, a decorated soldier and a politician. Who was he?",
+    "ground_truths": [
+      "Adolf Hitler",
+      "Hitlerian",
+      "Adolph Schicklgruber",
+      "HitlerAdolf",
+      "Hitler's medical health",
+      "Adolf Hitle",
+      "Hitlar",
+      "Adolph Hiedler",
+      "Adolf Hiedler",
+      "Adolph Hittler",
+      "Day of Potsdam",
+      "Adolpf Hitler",
+      "Adolf Hister",
+      "Adolf Hitlier",
+      "Adolph Hitler's health",
+      "Hitler's health",
+      "Hitlers",
+      "Aldof Hilter",
+      "HITLER",
+      "Hitler, Adolph",
+      "History of Adolf Hitler",
+      "Hitler,Adolph",
+      "Adolph Hiter",
+      "Adolf Hittler",
+      "Herr Hitler",
+      "Hitler,Adolf",
+      "Adolf Schicklegruber",
+      "Adolf hitler",
+      "Adlof hitler",
+      "Adolph Schickelgruber",
+      "Hitler Adolf",
+      "Hitlers medical health",
+      "HitlerAdolph",
+      "Adolph Schicklegruber",
+      "Adolf Hiler",
+      "Adolf Hitler's medical condition",
+      "Hittler",
+      "Adolf Schickelgruber",
+      "Adolf Hitler",
+      "Hitler's",
+      "Hitler, adolf",
+      "Nazi leader",
+      "Hitler, Adolf",
+      "Herr Wolf",
+      "Adolph Hitler's medical health",
+      "Adolph Hitler",
+      "Adolf Hitler's health",
+      "Adolf Schicklgruber",
+      "AdolphHitler",
+      "Adolf Hilter",
+      "Health of Adolf Hitler",
+      "Adolf Hitler's medical health",
+      "Hitler Adolph",
+      "AdolfHitler",
+      "Adolf HItler",
+      "Hitlet",
+      "Hitler adolf",
+      "Adoff Hitler",
+      "Adolfus Hitler",
+      "Hitler",
+      "Adolph hitler"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "\"Who wrote the trilogy of books \"\"The Millennium Trilogy\"\" featuring the character Lisbeth Salander?\"",
+    "ground_truths": [
+      "Stieg Larsson",
+      "Stieg Larsen",
+      "Stieg Larssen",
+      "Stieg larsson",
+      "Stieg Larsson",
+      "Steig Larsson",
+      "Stieg larson",
+      "Stieg Larson"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "What is a more common name for the umbilicus?",
+    "ground_truths": [
+      "Navel",
+      "Belly Button",
+      "In betweenie",
+      "Betweenie",
+      "Navel",
+      "Belly buttons",
+      "Outie",
+      "Tummy button",
+      "Navel point",
+      "Innie",
+      "Belly button",
+      "Belly-button",
+      "Lint hole",
+      "In-betweenie",
+      "Hokkaido Belly-button Festival",
+      "Bellybutton",
+      "Lint Hole",
+      "Navels"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Which counter-intelligence agency had a name meaning ‘death to spies’ in English?",
+    "ground_truths": [
+      "Smersh",
+      "Smert' Shpionam",
+      "SMERSH",
+      "СМЕРШ",
+      "Smersh",
+      "NKVD Special Section"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "A clapperboard is used in which industry?",
+    "ground_truths": [
+      "Film",
+      "Motion pictures",
+      "Movie",
+      "Motion picture photography",
+      "Moving image",
+      "Filmographer",
+      "Major motion picture",
+      "Films",
+      "FiLm",
+      "Motion Pictures",
+      "Moving picture",
+      "Big screen",
+      "Motion-picture",
+      "Worldwide distribution",
+      "Flickers",
+      "Moviefilm",
+      "Movies",
+      "Recorded motion",
+      "Moveis",
+      "Motion picture",
+      "Movie film",
+      "Moving images",
+      "Big-screen",
+      "Motion Picture",
+      "7th Art",
+      "Film"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Mammy Two Shoes, a recurring character in MGM's Tom and Jerry cartoons was inspired by which African-American actress and singer?",
+    "ground_truths": [
+      "Hattie McDaniel",
+      "Hatty MacDaniel",
+      "Hattie Macdaniel",
+      "Hatty McDaniel",
+      "Hattie MacDaniels",
+      "Hattie MacDaniel",
+      "Hatty Mcdaniel",
+      "Hattie McDaniel",
+      "Hattie Mcdaniel",
+      "Hattie McDaniels"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "What is the inscription on the George Cross ?",
+    "ground_truths": [
+      "FOR GALLANTRY",
+      "FOR GALLANTRY"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "What was the name of the country prior to being renamed as Namibia?",
+    "ground_truths": [
+      "South West Africa",
+      "Southwest Africa",
+      "Administrators-General of South West Africa",
+      "Namibia under South African occupation",
+      "South-West Africa",
+      "South West Africa"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "At the Oscar ceremony in 2004, Sofia Coppola was up for 'Best Director' for which film?",
+    "ground_truths": [
+      "LOST IN TRANSLATION",
+      "Lost in translation",
+      "Lost in Translation",
+      "Lost in Translation (disambiguation)",
+      "LOST IN TRANSLATION",
+      "Lost In Translation"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "What was the name of the ship that took the Pilgrim Fathers to America?",
+    "ground_truths": [
+      "The Mayflower",
+      "Ship Mayflower",
+      "English colony ship Mayflower",
+      "May Flower",
+      "MayFlower",
+      "Mayflower",
+      "Mayflower (ship)",
+      "The Mayflower"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Which actress was born Demetria Gene Guynes in 1962?",
+    "ground_truths": [
+      "Demi Moore",
+      "Demetria Moore",
+      "Demetria Guynes",
+      "Demi moore",
+      "Demi Moore",
+      "Demi Kutcher",
+      "Demi Moore-Kutcher",
+      "Demetria Gene Guynes"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Anthony Wilding, who won the Wimbledon men's singles from 1910 to 1913, was from what country?",
+    "ground_truths": [
+      "New Zealand",
+      "N Z",
+      "Nouvelle-Zelande",
+      "Kiwiland",
+      "New Zealand's",
+      "New Zealand.",
+      "Nz",
+      "New Zealand,",
+      "NEW Z",
+      "N Zealand",
+      "NEW ZEALAND",
+      "New Zealend",
+      "Administrative divisions of new zealand",
+      "New Zaeland",
+      "N z",
+      "Kiwistan",
+      "Enzed",
+      "NewZealand",
+      "NZ",
+      "Name of New Zealand",
+      "Staten Landt",
+      "New+Zealand",
+      "NZL",
+      "Nu Tirani",
+      "Neo Zealand",
+      "ISO 3166-1:NZ",
+      "New Zealnd",
+      "AoTeAroa",
+      "Sheepland",
+      "Aotearoa / New Zealand",
+      "Subdivisions of New Zealand",
+      "Its got that new zeal",
+      "New Zealand",
+      "Newzealand",
+      "New Zeland",
+      "New-Zealand",
+      "New Zeeland",
+      "Administrative divisions of New Zealand",
+      "New Zealnad",
+      "Staten Land",
+      "N.Z.",
+      "Staaten land",
+      "New.Zealand",
+      "Mew Zealand",
+      "Maoriland",
+      "N. Zealand",
+      "Etymology of New Zealand",
+      "New Xealand",
+      "Māoria",
+      "New zelanad",
+      "Niu Tireni",
+      "New zealand",
+      "New zeland",
+      "Nova Zeelandia",
+      "New zeeland"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "What country has slums known as favelas?",
+    "ground_truths": [
+      "Brazil",
+      "Brazil",
+      "Etymology of Brazil",
+      "Federal Republic of Brazil",
+      "Brasil",
+      "Barzil",
+      "Federative Republic of Brazil",
+      "Brazil (country)",
+      "Brassil",
+      "Republic of Brazil",
+      "Brésil",
+      "Brzil",
+      "Brazilian Federative Republic",
+      "Republica Federativa do Brasil",
+      "Bresil",
+      "Brazilian Republic",
+      "ISO 3166-1:BR",
+      "República Federativa do Brasil",
+      "Brazilo"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Rialto, Scalzi and Constitution are all bridges in which European city?",
+    "ground_truths": [
+      "Venice",
+      "Sestiere (Venice)",
+      "Venice",
+      "Venedig",
+      "Districts of Venice",
+      "Venesia",
+      "Venice, Italy",
+      "Venice subsidence",
+      "Venices",
+      "Venezia",
+      "Venice (Italy)",
+      "UN/LOCODE:ITVCE",
+      "The weather in Venice",
+      "Vinegia"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Which animated film, created by Dream Works Animations, is the highest-grossing film worldwide of 2009 so far? (May 2009)",
+    "ground_truths": [
+      "'MONSTERS vs. ALIENS'",
+      "Monsters vs Aliens",
+      "Dr. Cockroach Ph.D",
+      "Ginormica",
+      "'MONSTERS vs. ALIENS'",
+      "Aliens vs. Monsters",
+      "Monsters Vs. Aliens",
+      "Monsters v. Aliens",
+      "Monsters versus aliens",
+      "Monsters vs. Aliens: The series",
+      "Missing Link (Monsters vs Aliens)",
+      "Monsters vs. Aliens",
+      "Gallaxhar",
+      "Monster vs alien",
+      "Monsters vs. Aliens cartoon series",
+      "Monster vs aliens",
+      "Monsters Versus Aliens",
+      "Insectosaurus"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Who wrote the screenplay for the 1994 film ‘Four Weddings and a Funeral’?",
+    "ground_truths": [
+      "Richard Curtis",
+      "Rachel Curtis",
+      "Richard Curtis (screenwriter)",
+      "Richard Curtis"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Used as an alloy in making high-speed cutting tools, mo is the symbol for what silver-white metallic element?",
+    "ground_truths": [
+      "Molybdenum",
+      "Molybendium",
+      "Molybdenum alloys",
+      "Molybdenum",
+      "Molybdic",
+      "Element 42",
+      "Molybdous",
+      "Molybdenum alloy",
+      "Molybdenom",
+      "Molybdenium",
+      "Molybdinum",
+      "Dimolybdenum"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Tom Parker, who famously managed Elvis Presley, was known by the title of, and as 'the..'?",
+    "ground_truths": [
+      "Colonel",
+      "Colonel (Australia)",
+      "Colonel",
+      "Colonelcy",
+      "Col.",
+      "Colonels",
+      "Cnel",
+      "Coronel (rank)",
+      "Acting Colonel",
+      "Colenel"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "The invention of what in 1867, made Alfred Nobel famous?",
+    "ground_truths": [
+      "Dynamite",
+      "Dynamite",
+      "Dynamited",
+      "Dinamite"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "The village of Tightwad is in which US state?",
+    "ground_truths": [
+      "Missouri",
+      "Misouri",
+      "Politics of Missouri",
+      "24th State",
+      "Transport in Missouri",
+      "Showme State",
+      "Show Me State",
+      "Missourah",
+      "MO (state)",
+      "Transportation in Missouri",
+      "Missouri (U.S. state)",
+      "Missourri",
+      "The Show-Me State",
+      "Demographics of Missouri",
+      "Show-Me State",
+      "Twenty-fourth State",
+      "The Showme State",
+      "Missouri",
+      "The Show Me State",
+      "Missoura",
+      "Religion in Missouri",
+      "Myssouri",
+      "US-MO",
+      "Misourri",
+      "Missouri (state)",
+      "State of Missouri",
+      "Twenty-Fourth State",
+      "Misuri",
+      "Economy of Missouri",
+      "Missouri, United States"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Which Englsih football club play home matches at the Sports Direct Arena?",
+    "ground_truths": [
+      "NEWCASTLE UNITED",
+      "United For Newcastle",
+      "Newcastle united",
+      "Newcastle United Football Club",
+      "Newcastle Utd",
+      "Newcastle utd",
+      "The toon",
+      "NUFC",
+      "Newcastle United F.C",
+      "Newcastle United F C",
+      "Newcastle United F. C.",
+      "Newcastle United F.C.",
+      "Newcastle UFC",
+      "NEWCASTLE UNITED",
+      "Newcastle United",
+      "Nufc.com",
+      "Nufc",
+      "Newcastle United FC",
+      "Toon Army",
+      "NUFC.com",
+      "Newcastle united fc"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Which 1969 film, based on a stage musical, marked the directorial debut of Richard Attenborough?",
+    "ground_truths": [
+      "OH! WHAT A LOVELY WAR",
+      "OH! WHAT A LOVELY WAR",
+      "Oh! What a Lovely War",
+      "Bertie Smith",
+      "Oh! What A Lovely War!",
+      "Oh! What A Lovely War"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "Hafidh are people who have memorized what?",
+    "ground_truths": [
+      "The Quran",
+      "Curaan",
+      "Final Testament",
+      "Arabic Quran",
+      "Ghoran",
+      "قورئان",
+      "Quaran",
+      "The Noble Qur'an",
+      "Qurʼān",
+      "Koraan",
+      "Quraan",
+      "Qurʻān",
+      "Qur'An",
+      "Qur%60an",
+      "Qur’ān",
+      "The Qur'an",
+      "Qora'an",
+      "Al-Qur'an",
+      "Qur'aan",
+      "Al-Quran",
+      "The Koran",
+      "The Holy Qur'an",
+      "The Quran",
+      "Quran",
+      "Qu'ranic",
+      "Qora’an",
+      "Quram",
+      "القرآن",
+      "Koranic",
+      "Al-Qur'ān",
+      "Qurʼan",
+      "About Holy Quran",
+      "Qur'án",
+      "Qurán",
+      "Qur’an",
+      "Qur'anic",
+      "Qur'an",
+      "Qur'an al Karim",
+      "Holy Qur'an",
+      "Qurʾān",
+      "Holy Quran",
+      "Mother Book",
+      "Qur’anic",
+      "Qoraan",
+      "The quran",
+      "Al Quran",
+      "Alcoran",
+      "Qran",
+      "Qur'ân",
+      "Qura'an",
+      "Kalaam-e-majeed",
+      "Quar'an",
+      "Qoran",
+      "Qur'ān",
+      "Holy Koran",
+      "Murattal",
+      "Al-Qur’ān",
+      "Qurʾan",
+      "Qu'ran",
+      "Noble qu'ran",
+      "Al-Qurān",
+      "Qu’ran",
+      "Koran",
+      "Quoran",
+      "Holy Qu-ran",
+      "The Holy Quran",
+      "Final testament",
+      "The Holy Koran",
+      "Glorious Qur'an",
+      "Korans",
+      "Al-Coran",
+      "Qurân",
+      "Quranic",
+      "Korān",
+      "QURAN",
+      "Ko'ran",
+      "The Holy Qoran",
+      "Al-Quran al-karim",
+      "Qur'àn",
+      "Qur’aan",
+      "Koran al Karim",
+      "TheKoran",
+      "Al Koran al Karim",
+      "Qur´an"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "What word connects bermuda with a Scottish Racecourse?",
+    "ground_truths": [
+      "HAMILTON",
+      "Hamilton (disambiguation)",
+      "Hamilton (Disambiguation)",
+      "Hamilton, California",
+      "Hamilton (movie)",
+      "HAMILTON",
+      "Hamilton",
+      "Hamilton, California (disambiguation)",
+      "Hamilton (film)"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "'Signal Failures' written by Dr. B. Ching is the title of a column that has appeared in which magazine?",
+    "ground_truths": [
+      "PRIVATE EYE",
+      "The Private Eye",
+      "PRIVATE EYE"
+    ]
+  },
+  {
+    "dataset": "TriviaQA",
+    "question": "The Battle of Ghuznee in 1839 took place between the armies of Great Britain and which other country?",
+    "ground_truths": [
+      "Afghanistan",
+      "Afghanistan",
+      "Avghanistaun",
+      "Soviet-occupied Afghanistan",
+      "Afganhistan",
+      "Afghanestan",
+      "Jomhūrī-ye Eslāmī-ye Afġānestān",
+      "Afghanastan",
+      "Afeganistao",
+      "Afgjanistan",
+      "Afghanistan/Article from the 1911 Encyclopedia",
+      "AfghanistaN",
+      "Afghanistan, Rep. of.",
+      "Afganistan",
+      "Afghanistan-Central Asia",
+      "Afghanistan (1911 Encyclopedia)",
+      "Afghansitan",
+      "Afgahanistan",
+      "IROA",
+      "Kinetic action",
+      "A-Stan",
+      "Afghanstan",
+      "Afğānistān",
+      "AFGHANISTAN",
+      "Afghānistān",
+      "I.R.O.A.",
+      "Islamic Republic of Afghanistan",
+      "Dowlat-e Eslami-ye Afghanestan",
+      "افغانستان",
+      "Afghinastan",
+      "The Graveyard of Empires",
+      "Affghanistan",
+      "Afghanistan, I.S. of",
+      "Etymology of Afghanistan",
+      "The Islamic Republic of Afghanistan",
+      "Islamic Transitional Government of Afghanistan",
+      "ISO 3166-1:AF",
+      "Afghnistan",
+      "د افغانستان اسلامي دولت دولت اسلامی افغانستان",
+      "Da Afġānistān Islāmī Jomhoriyat",
+      "Da Afghanistan Islami Dawlat Dawlat-e Eslami-e Afghanestan"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who is the author of The Mind and Society?",
+    "ground_truths": [
+      "Vilfredo Pareto"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the screenwriter for Finale?",
+    "ground_truths": [
+      "Bryan Elsley"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What genre is Peter Paul Rubens?",
+    "ground_truths": [
+      "landscape art",
+      "landscape painting",
+      "landscape",
+      "history painting",
+      "historical painting",
+      "historical art"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "In what country is Joy?",
+    "ground_truths": [
+      "United States of America",
+      "the United States of America",
+      "America",
+      "U.S.A.",
+      "USA",
+      "U.S.",
+      "US",
+      "the US",
+      "the USA",
+      "US of A",
+      "the United States",
+      "U. S. A.",
+      "U. S.",
+      "the States",
+      "the U.S.",
+      "'Merica",
+      "U.S",
+      "United States",
+      "'Murica"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the composer of August?",
+    "ground_truths": [
+      "Anthony Hopkins",
+      "Sir Anthony Hopkins",
+      "Philip Anthony Hopkins",
+      "Sir Philip Anthony Hopkins",
+      "Sir Anthony Philip Hopkins"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the director of Turbo: A Power Rangers Movie?",
+    "ground_truths": [
+      "Shuki Levy",
+      "Yehoshua Levy",
+      "Shuki Y. Levy",
+      "Shuky Levy",
+      "Shuky",
+      "David Winning"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the director of Tracks?",
+    "ground_truths": [
+      "Henry Jaglom",
+      "Henry David Jaglom"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What sport does Canada women's national field hockey team play?",
+    "ground_truths": [
+      "field hockey",
+      "hockey"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What is the capital of Mexico?",
+    "ground_truths": [
+      "Mexico City",
+      "Mexico D.F.",
+      "Ciudad de México",
+      "City of Mexico",
+      "Mexico City, Mexico",
+      "CDMX",
+      "Mexico"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the producer of Desire?",
+    "ground_truths": [
+      "Ernst Lubitsch"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "In what country is Eros Airport?",
+    "ground_truths": [
+      "Namibia",
+      "Republic of Namibia",
+      "na",
+      "🇳🇦",
+      "NAM"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What genre is The Holes?",
+    "ground_truths": [
+      "comedy film",
+      "comedy movie"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the director of Love?",
+    "ground_truths": [
+      "Edmund Goulding",
+      "Edmund George Goulding",
+      "John Gilbert"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the screenwriter for Heat?",
+    "ground_truths": [
+      "William Goldman",
+      "S. Morgenstern",
+      "Harry Longbaugh"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who is the author of The Room?",
+    "ground_truths": [
+      "Harold Pinter"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What genre is Fantasy?",
+    "ground_truths": [
+      "rock music",
+      "rock and roll",
+      "rock",
+      "Rock"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the screenwriter for The Good News?",
+    "ground_truths": [
+      "Matthew Weiner",
+      "Matthew Hoffman Weiner"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the screenwriter for Last Run?",
+    "ground_truths": [
+      "Anthony Hickox"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What is the religion of American University?",
+    "ground_truths": [
+      "United Methodist Church",
+      "UMC"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "In what city was K. M. Beenamol born?",
+    "ground_truths": [
+      "Kerala",
+      "Keralam",
+      "IN-KL",
+      "God's Own Country",
+      "Land of coconuts"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What is the capital of Canton of Valais?",
+    "ground_truths": [
+      "Sion",
+      "Sitten",
+      "Sion VS"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the composer of The Nose?",
+    "ground_truths": [
+      "Dmitri Shostakovich",
+      "Shostakovich",
+      "Shosty",
+      "Dmitrii Dmitrievich Shostakovich",
+      "Dmitrij Šostakovič",
+      "Dmitri Dmitrievitch Chostakovitch",
+      "Dimitri Shostakovich"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What is E. David Redwine's occupation?",
+    "ground_truths": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What genre is Beautiful Garbage?",
+    "ground_truths": [
+      "alternative rock",
+      "alternative music",
+      "alt-rock",
+      "alternative",
+      "alt rock",
+      "pop/rock",
+      "Alternative Rock"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the composer of Bannada Gejje?",
+    "ground_truths": [
+      "Hamsalekha",
+      "Naadabramha"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the director of The White Suit?",
+    "ground_truths": [
+      "Lazar Ristovski"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the director of The Gamesters of Triskelion?",
+    "ground_truths": [
+      "Gene Nelson",
+      "Leander Eugene Berg"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who is the author of The Wild Duck?",
+    "ground_truths": [
+      "Henrik Ibsen",
+      "Henrik Johan Ibsen",
+      "Henrich Johan Ibsen",
+      "Henrich Ibsen"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "In what city was Richie Ashburn born?",
+    "ground_truths": [
+      "Tilden",
+      "Tilden, Nebraska"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What color is Coventry City F.C.?",
+    "ground_truths": [
+      "sky blue"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the producer of ∞?",
+    "ground_truths": [
+      "Yann Tiersen",
+      "Yann Pierre Tiersen"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the director of Marina's Destiny?",
+    "ground_truths": [
+      "Viktor Ivchenko",
+      "Viktor Illarionovich Ivchenko"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who is the author of Up at the Villa?",
+    "ground_truths": [
+      "William Somerset Maugham",
+      "W. Somerset Maugham",
+      "Somerset Maugham"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the screenwriter for Saat Rang Ke Sapne?",
+    "ground_truths": [
+      "Priyadarshan",
+      "Priyadarshan Soman"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who is the mother of Jacob?",
+    "ground_truths": [
+      "Rebecca",
+      "Rivka",
+      "Rivkah",
+      "Rebecka",
+      "Rebeccah"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the director of Game?",
+    "ground_truths": [
+      "Abhinay Deo"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What genre is The Simple Life?",
+    "ground_truths": [
+      "reality television",
+      "reality TV",
+      "reality television program",
+      "reality TV program",
+      "reality television show",
+      "television reality program",
+      "television reality show",
+      "TV reality program",
+      "TV reality show"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "In what country is Roy?",
+    "ground_truths": [
+      "United States of America",
+      "the United States of America",
+      "America",
+      "U.S.A.",
+      "USA",
+      "U.S.",
+      "US",
+      "the US",
+      "the USA",
+      "US of A",
+      "the United States",
+      "U. S. A.",
+      "U. S.",
+      "the States",
+      "the U.S.",
+      "'Merica",
+      "U.S",
+      "United States",
+      "'Murica"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What sport does Luan Viana Patrocínio play?",
+    "ground_truths": [
+      "association football",
+      "football",
+      "soccer"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the producer of Hurt?",
+    "ground_truths": [
+      "Linda Perry"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What genre is Zones?",
+    "ground_truths": [
+      "young adult literature",
+      "juvenile fiction",
+      "YA",
+      "youth literature",
+      "juvenile literature",
+      "young adult fiction",
+      "YA literature",
+      "YA fiction",
+      "science fiction",
+      "SF",
+      "scifi",
+      "sci Fi",
+      "sci-Fi",
+      "science-fiction",
+      "sci fi",
+      "sciencefiction"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who is the author of The Day of the Pelican?",
+    "ground_truths": [
+      "Katherine Paterson",
+      "Katherine Womeldorf Paterson"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who is the father of Armed?",
+    "ground_truths": [
+      "Bull Lea"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the screenwriter for Persuasion?",
+    "ground_truths": [
+      "Nick Dear"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the producer of The Other Side?",
+    "ground_truths": [
+      "Sully Erna",
+      "Salvatore Paul Erna Jr."
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What is Lord Frederick Spencer Hamilton's occupation?",
+    "ground_truths": [
+      "politician",
+      "political leader",
+      "political figure",
+      "polit.",
+      "pol"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the screenwriter for Most?",
+    "ground_truths": [
+      "William Zabka",
+      "William Michael Zabka",
+      "Billy Zabka"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who is the father of Margaret, Countess of Pembroke?",
+    "ground_truths": [
+      "Edward III of England",
+      "Edward of Windsor",
+      "Edward III",
+      "King of England Edward III"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "What is Saint Paul the capital of?",
+    "ground_truths": [
+      "Minnesota",
+      "MN",
+      "Land of 10,000 Lakes",
+      "Minnesota, United States",
+      "State of Minnesota",
+      "Minn.",
+      "US-MN",
+      "Ramsey County",
+      "Ramsey County, Minnesota"
+    ]
+  },
+  {
+    "dataset": "PopQA",
+    "question": "Who was the producer of Le Gang?",
+    "ground_truths": [
+      "Alain Delon",
+      "Alain Fabien Maurice Marcel Delon"
+    ]
+  }
+]
