@@ -24,7 +24,7 @@ This project evaluates three approaches to factual question answering — a stat
 
 ```bash
 git clone <repo-url>
-cd CSCI544
+cd csci544_group45
 ```
 
 ### 1.2 Create and activate a virtual environment
