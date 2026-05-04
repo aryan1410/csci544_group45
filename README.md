@@ -1,11 +1,11 @@
-# CSCI544 — NLP Project: LLM Evaluation : Group 45
+# CSCI544, NLP Project: LLM Evaluation : Group 45
 - Aryan Shah (aryanutp@usc.edu)
 - Nidhi Choudhary (nidhicho@usc.edu)
 - Khushi Mehta (khushipr@usc.edu)
 - Ishrit Chavan (ichavan@usc.edu)
 - Aditya Sidham (sidham@usc.edu)
 
-This project evaluates three approaches to factual question answering — a static LLM baseline, a retrieval-augmented generation (RAG) pipeline, and an agentic search system — measuring Token F1, hallucination rate, and latency on a shared question set drawn from real company annual reports (10-K filings) and trivia questions.
+This project evaluates three approaches to factual question answering, a static LLM baseline, a retrieval-augmented generation (RAG) pipeline, and an agentic search system, measuring Token F1, hallucination rate, and latency on a shared question set drawn from real company annual reports (10-K filings) and trivia questions.
 
 ---
 
@@ -55,8 +55,8 @@ Open a `.env` file at the project root and fill in your keys:
 GROQ_API_KEY=your_groq_key_here        # required for static LLM
 OPENAI_API_KEY=your_openai_key_here    # required for RAG and agent
 TAVILY_API_KEY=your_tavily_key_here    # required for agent search
-GEMINI_API_KEY=                        # optional — falls back to OpenAI if blank
-SERP_API_KEY=                          # optional — enables dual search mode
+GEMINI_API_KEY=                        # optional, falls back to OpenAI if blank
+SERP_API_KEY=                          # optional, enables dual search mode
 ```
 
 All other values in `.env` (model name, search budgets, timeouts) can be left at their defaults from the example file
@@ -69,7 +69,7 @@ All three components share the same virtual environment and the same `.env` file
 
 ---
 
-### 2.1 Static LLM — `static_llm/`
+### 2.1 Static LLM, `static_llm/`
 
 Evaluates a Groq-hosted Llama 3.3 70B model directly, with no retrieval.
 
@@ -85,11 +85,11 @@ The script reads questions from `data/qa_dataset.txt` and writes one result row 
 
 ---
 
-### 2.2 RAG — `rag/`
+### 2.2 RAG, `rag/`
 
 Builds a FAISS vector index over five company annual reports, then evaluates retrieval-augmented answers against the shared question set.
 
-**Step 1 — Build the knowledge base (run once):**
+**Step 1, Build the knowledge base (run once):**
 ```bash
 cd rag
 python knowledge_base_builder.py
@@ -97,7 +97,7 @@ python knowledge_base_builder.py
 
 This downloads TriviaQA and PopQA Q&A pairs from HuggingFace, loads the five company annual reports from `data/`, and embeds everything into a FAISS index at `rag/faiss_trivia_index/`. The TriviaQA/PopQA pairs give RAG coverage over `questions_subset.json`; the annual reports give it coverage over the custom Apple 10-K questions. This step takes several minutes and uses OpenAI embedding credits.
 
-**Step 2 — Run evaluation:**
+**Step 2, Run evaluation:**
 ```bash
 python batch_eval.py
 ```
@@ -108,11 +108,11 @@ python batch_eval.py
 
 ---
 
-### 2.3 Agent — `agent/`
+### 2.3 Agent, `agent/`
 
 A research agent that plans sub-queries, searches the web with Tavily/SerpAPI, and synthesizes a final answer. Evaluation sends questions to the live backend over HTTP.
 
-**Step 1 — Start the backend (keep this terminal open):**
+**Step 1, Start the backend (keep this terminal open):**
 ```bash
 cd agent/backend
 uvicorn app:app --host 0.0.0.0 --port 8000
@@ -120,7 +120,7 @@ uvicorn app:app --host 0.0.0.0 --port 8000
 
 Wait until you see `Application startup complete` before proceeding.
 
-**Step 2 — Run evaluation (open a new terminal, activate the venv):**
+**Step 2, Run evaluation (open a new terminal, activate the venv):**
 ```bash
 cd agent
 python agent_eval.py
@@ -136,7 +136,7 @@ python agent_eval.py
 
 All three pipelines are evaluated on the same 50-question set and scored with the same metrics.
 
-### Question set — `data/qa_dataset.txt`
+### Question set, `data/qa_dataset.txt`
 
 All 50 questions are drawn from **Apple's FY2023 Annual Report (10-K)**, filed with the SEC for the fiscal year ended September 30, 2023. Questions are organized in three tiers designed to produce a measurable scoring gradient across the three pipelines:
 
@@ -148,9 +148,9 @@ All 50 questions are drawn from **Apple's FY2023 Annual Report (10-K)**, filed w
 
 The document-specific questions require exact figures in the format used in the filing (e.g., `200,583 million`). A web search typically returns rounded or reformatted values (e.g., `200.6 billion`) which score near zero after normalization, putting the agent at a disadvantage on this tier.
 
-The medium-difficulty tier includes deliberate gotchas for a live web search — for example, Luca Maestri was Apple's CFO during FY2023 but left in January 2024. An agent searching today finds the current CFO (Kevan Parekh) and returns the wrong answer, while the static LLM (trained before the change) and RAG (reading the archived filing) both return the correct historical answer.
+The medium-difficulty tier includes deliberate gotchas for a live web search, for example, Luca Maestri was Apple's CFO during FY2023 but left in January 2024. An agent searching today finds the current CFO (Kevan Parekh) and returns the wrong answer, while the static LLM (trained before the change) and RAG (reading the archived filing) both return the correct historical answer.
 
-### Knowledge base — `data/` company filings
+### Knowledge base, `data/` company filings
 
 The RAG knowledge base is built from five company annual reports, deliberately chosen to force genuine retrieval rather than simple lookup:
 
@@ -162,7 +162,7 @@ The RAG knowledge base is built from five company annual reports, deliberately c
 | `meta_fy2022_10k.txt` | Meta Platforms, Inc. | FY2022 (ended Dec 31, 2022) |
 | `amazon_fy2022_10k.txt` | Amazon.com, Inc. | FY2022 (ended Dec 31, 2022) |
 
-The four non-Apple documents serve as distractors — they share vocabulary (revenue, segment, operating income, CEO) with Apple's filing, so the retriever must use semantic similarity to surface the correct Apple chunks rather than relying on keyword frequency alone. The `qa_dataset.txt` file is intentionally excluded from the knowledge base to prevent data leakage; all answers must come from the source filings.
+The four non-Apple documents serve as distractors, they share vocabulary (revenue, segment, operating income, CEO) with Apple's filing, so the retriever must use semantic similarity to surface the correct Apple chunks rather than relying on keyword frequency alone. The `qa_dataset.txt` file is intentionally excluded from the knowledge base to prevent data leakage; all answers must come from the source filings.
 
 ### Metrics
 
@@ -178,7 +178,7 @@ Normalization strips all punctuation including commas and decimal points, so `20
 
 | Pipeline | Strong on | Weak on | Expected Token F1 |
 | --- | --- | --- | --- |
-| **RAG** | Document-specific figures (retrieves exact text from the filing) | — | Highest |
+| **RAG** | Document-specific figures (retrieves exact text from the filing) |, | Highest |
 | **Static LLM** | Easily searchable + medium (encoded in training data) | Exact figures not memorized | Middle |
 | **Agent** | Easily searchable (live web search) | Document-specific figures (rounded/reformatted on the web) + historical personnel | Lowest |
 
