@@ -81,7 +81,7 @@ python llm_eval.py
 
 **Output:** `static_llm/eval_results.csv`
 
-The script reads questions from `data/qa_dataset.txt` and writes one result row per question to the CSV.
+The script first generates the `data/questions_subset.json` (if not already present in `data/`), and then reads questions from both`data/questions_subset.json` and `data/qa_dataset.txt` and writes one result row per question to the CSV.
 
 ---
 
@@ -128,7 +128,7 @@ python agent_eval.py
 
 **Output:** `agent/agent_eval_results.csv`
 
-> The eval script sends one question at a time and waits for a response (up to 120 s per question). The backend must be running on `localhost:8000` throughout.
+> The eval script reads from both `questions_subset.json` and `qa_dataset.txt`, and sends one question at a time and waits for a response (up to 120 s per question). The backend must be running on `localhost:8000` throughout.
 
 ---
 
@@ -136,9 +136,9 @@ python agent_eval.py
 
 All three pipelines are evaluated on the same 50-question set and scored with the same metrics.
 
-### Question set, `data/qa_dataset.txt`
+### Question sets, `data/qa_dataset.txt` and `data/questions_subset.json`
 
-All 50 questions are drawn from **Apple's FY2023 Annual Report (10-K)**, filed with the SEC for the fiscal year ended September 30, 2023. Questions are organized in three tiers designed to produce a measurable scoring gradient across the three pipelines:
+All 50 questions in `data/qa_dataset.txt` are drawn from **Apple's FY2023 Annual Report (10-K)**, filed with the SEC for the fiscal year ended September 30, 2023. Questions are organized in three tiers designed to produce a measurable scoring gradient across the three pipelines:
 
 | Tier | Questions | Examples | Expected winner |
 | --- | --- | --- | --- |
@@ -149,6 +149,8 @@ All 50 questions are drawn from **Apple's FY2023 Annual Report (10-K)**, filed w
 The document-specific questions require exact figures in the format used in the filing (e.g., `200,583 million`). A web search typically returns rounded or reformatted values (e.g., `200.6 billion`) which score near zero after normalization, putting the agent at a disadvantage on this tier.
 
 The medium-difficulty tier includes deliberate gotchas for a live web search, for example, Luca Maestri was Apple's CFO during FY2023 but left in January 2024. An agent searching today finds the current CFO (Kevan Parekh) and returns the wrong answer, while the static LLM (trained before the change) and RAG (reading the archived filing) both return the correct historical answer.
+
+The 100 questions in `data/questions_subset.json` file are initially created from the script `llm_eval.py` to ensure a fixed, reproducible set of evaluation questions across runs and users. The script samples a balanced subset from larger datasets (TriviaQA and PopQA) using stratified sampling, preserving diversity across sources or properties. Once generated, it is saved and reused to maintain consistency in benchmarking results.
 
 ### Knowledge base, `data/` company filings
 
@@ -178,9 +180,9 @@ Normalization strips all punctuation including commas and decimal points, so `20
 
 | Pipeline | Strong on | Weak on | Expected Token F1 |
 | --- | --- | --- | --- |
-| **RAG** | Document-specific figures (retrieves exact text from the filing) |, | Highest |
-| **Static LLM** | Easily searchable + medium (encoded in training data) | Exact figures not memorized | Middle |
-| **Agent** | Easily searchable (live web search) | Document-specific figures (rounded/reformatted on the web) + historical personnel | Lowest |
+| **RAG** | Document-specific figures (retrieves exact text from the filing) |, | Highest overall |
+| **Static LLM** | Easily searchable + medium (encoded in training data) | Exact figures not memorized | Middle overall |
+| **Agent** | Easily searchable (live web search) | Document-specific figures (rounded/reformatted on the web) + historical personnel | Lowest overall |
 
 ### Pipeline details
 
